@@ -27,6 +27,7 @@
         echo '<button type="button" class="btn btn-dark">Click me</button>';
         echo '<button type="button" class="btn btn-primary">Click me</button>';
         echo '<button type="button" class="btn btn-success">Click me</button>';
+        echo '<a href="https://www.heroku.com" target="_blank"  class="btn btn-dark">Heroku.com</a>';
      require 'includes/footer.php'; 
      
      ?>
